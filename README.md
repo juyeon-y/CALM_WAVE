@@ -38,7 +38,7 @@ SSAFY 8기 2학기 공통프로젝트
 ### **메인 페이지**
 <div align=center>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221072324-3ac256eb-ed71-4e0d-ab6b-f88150ea05fb.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221072324-3ac256eb-ed71-4e0d-ab6b-f88150ea05fb.gif"/>
 
 </div>
 
@@ -47,19 +47,19 @@ SSAFY 8기 2학기 공통프로젝트
 ### **로그인 페이지**
 <div align=center>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221100063-b17cfcea-eec3-4e17-af75-da5e6e3a9fb0.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221100063-b17cfcea-eec3-4e17-af75-da5e6e3a9fb0.gif"/>
 
 **로그인 성공**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221100171-94fdb418-f77a-48ff-972c-15dd32901eb9.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221100171-94fdb418-f77a-48ff-972c-15dd32901eb9.gif"/>
 
 **로그인 실패**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221101863-1afe3c19-711d-456a-91b7-76b71bfc6274.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221101863-1afe3c19-711d-456a-91b7-76b71bfc6274.gif"/>
 
 **구글 로그인**
 
@@ -71,19 +71,19 @@ SSAFY 8기 2학기 공통프로젝트
 
 <div align=center>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221076364-fd173b3d-82e3-4f45-9cd8-b6b68f578054.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221076364-fd173b3d-82e3-4f45-9cd8-b6b68f578054.gif"/>
 
 **업무 카테고리 추가**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221076725-cbfa6883-0249-4540-9148-14183d76afa5.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221076725-cbfa6883-0249-4540-9148-14183d76afa5.gif"/>
 
 **업무 추가**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221076859-4f42c436-20cc-4fa7-8fa9-6679272c2e97.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221076859-4f42c436-20cc-4fa7-8fa9-6679272c2e97.gif"/>
 
 **업무 선택 및 시작**
 
@@ -95,32 +95,32 @@ SSAFY 8기 2학기 공통프로젝트
 
 <div align=center>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221076986-d65f795d-4031-408a-8fd0-6ebd618f3774.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221076986-d65f795d-4031-408a-8fd0-6ebd618f3774.gif"/>
 
 **진행 중인 업무 선택**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221077166-6532e310-e92d-4782-9c39-ad3679f5be34.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221077166-6532e310-e92d-4782-9c39-ad3679f5be34.gif"/>
 
 **자세 교정 알람**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221077341-f041e30d-1212-4100-af35-7ef6b9fe6932.gif"/>
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221077351-a5baf4ae-cefa-48e1-9a57-f90f3f64b081.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221077341-f041e30d-1212-4100-af35-7ef6b9fe6932.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221077351-a5baf4ae-cefa-48e1-9a57-f90f3f64b081.gif"/>
 
 **스트레칭 & 휴식 알람**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221077725-440ab244-43f7-460a-8094-ddf7e3d577ef.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221077725-440ab244-43f7-460a-8094-ddf7e3d577ef.gif"/>
 
 **끝낸 업무 저장 및 종료**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221077946-5d6da519-345a-4c76-a0fa-953cc086fd5b.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221077946-5d6da519-345a-4c76-a0fa-953cc086fd5b.gif"/>
 
 **업무 결과 페이지**
 
@@ -132,31 +132,31 @@ SSAFY 8기 2학기 공통프로젝트
 
 <div align=center>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221078081-0b2b00f4-576a-4a90-a410-5319baced8d4.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221078081-0b2b00f4-576a-4a90-a410-5319baced8d4.gif"/>
 
 **프로필**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221078338-f68f1b58-587e-41c5-9b85-aaf0c2dd90ec.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221078338-f68f1b58-587e-41c5-9b85-aaf0c2dd90ec.gif"/>
 
 **업무 캘린더**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221078468-dd829985-b16e-4f2f-b179-db3dfe1211d0.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221078468-dd829985-b16e-4f2f-b179-db3dfe1211d0.gif"/>
 
 **업무 분포 그래프**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221079009-01b68b12-cb5c-4cb1-baf7-afd7f4402303.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221079009-01b68b12-cb5c-4cb1-baf7-afd7f4402303.gif"/>
 
 **주간 완료 업무 그래프**
 
 <br>
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/221079138-3af0bfae-db77-43fe-b929-279b72c5e447.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221079138-3af0bfae-db77-43fe-b929-279b72c5e447.gif"/>
 
 **목표 일정 달성 비율 그래프**
 
@@ -167,13 +167,13 @@ SSAFY 8기 2학기 공통프로젝트
 
 ## 🏗️ **아키텍처**
 
-<img width="100%" src="https://user-images.githubusercontent.com/52191425/221501807-a4bca382-ef78-4bb9-8ef0-74e67be777c3.png"/>
+<img width="70%" src="https://user-images.githubusercontent.com/52191425/221501807-a4bca382-ef78-4bb9-8ef0-74e67be777c3.png"/>
 
 <br>
 
 ## 🗃️ **ERD**
 
-<img width="80%" src="https://user-images.githubusercontent.com/52191425/223615901-ea4b5efe-40fa-4338-872f-49a1c5dd15af.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52191425/223615901-ea4b5efe-40fa-4338-872f-49a1c5dd15af.png"/>
 
 <br>
 
@@ -181,15 +181,9 @@ SSAFY 8기 2학기 공통프로젝트
 
 ### **Front**
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <br>
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <br>
 
 
@@ -197,40 +191,27 @@ SSAFY 8기 2학기 공통프로젝트
 
 ### **Back**
 
-<img src="https://img.shields.io/badge/java 11-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/java 11-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-<img src="https://img.shields.io/badge/queryDSL-4479A1?style=for-the-badge&logoColor=white"> 
-<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/queryDSL-4479A1?style=for-the-badge&logoColor=white">  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/OAuth2-E34F26?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-E61587?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/OAuth2-E34F26?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/JWT-E61587?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 <br>
 
 ### **CICD**
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 
 
 <br>
 
 ### **기타**
-<img src="https://img.shields.io/badge/OpenVidu-FFD400?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Teachable Machine-2496ED?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/OpenVidu-FFD400?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Teachable Machine-2496ED?style=for-the-badge&logoColor=white">
 
 ### **협업 툴**
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
 
 <br>
 
@@ -265,7 +246,7 @@ ex) **[BE] Feat: 관심지역 알림 ON/OFF 기능 추가(#123)**
 
 ## ✔ **Git 브랜치 컨벤션**
 
-![git_strategy](https://user-images.githubusercontent.com/52191425/212794379-54373f74-67f6-4ec9-ace0-723e8de33c31.png)
+<img width="50%" src="https://user-images.githubusercontent.com/52191425/212794379-54373f74-67f6-4ec9-ace0-723e8de33c31.png"/>
 
 - `main`
     - 배포 가능한 상태의 결과물 올리는 브랜치
