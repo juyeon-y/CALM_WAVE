@@ -221,7 +221,7 @@ SSAFY 8기 2학기 공통프로젝트
 - [와이어프레임](https://www.figma.com/file/TPjuF89O7YfECOmuBcvW87/%EA%B3%B5%ED%86%B5?node-id=0%3A1&t=0gHPZWdAfukhLuso-1)
 - [덤프데이터](./exec/Dump20230217.sql)
 - [포팅 메뉴얼](./exec/포팅메뉴얼_CALMWAVE.pdf)
-- [발표자료](./exec/최종 발표/최종 발표 제출용.pdf)
+- [발표자료](https://github.com/juyeon-y/CALM_WAVE/blob/main/exec/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20%EC%A0%9C%EC%B6%9C%EC%9A%A9.pdf)
 
 <br>
 
